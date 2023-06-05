@@ -1,0 +1,17 @@
+file,class,method,variable,usage
+/home/x1/Desktop/ass/ass16/ecommerce-website-main/src/java/Cart.java,Cart,"doPost/2[HttpServletRequest,HttpServletResponse]",pcode,3
+/home/x1/Desktop/ass/ass16/ecommerce-website-main/src/java/PlaceOrder.java,PlaceOrder,"doPost/2[HttpServletRequest,HttpServletResponse]",mode,2
+/home/x1/Desktop/ass/ass16/ecommerce-website-main/src/java/PlaceOrder.java,PlaceOrder,"doPost/2[HttpServletRequest,HttpServletResponse]",fname,2
+/home/x1/Desktop/ass/ass16/ecommerce-website-main/src/java/PlaceOrder.java,PlaceOrder,"doPost/2[HttpServletRequest,HttpServletResponse]",bno,2
+/home/x1/Desktop/ass/ass16/ecommerce-website-main/src/java/PlaceOrder.java,PlaceOrder,"doPost/2[HttpServletRequest,HttpServletResponse]",address,2
+/home/x1/Desktop/ass/ass16/ecommerce-website-main/src/java/PlaceOrder.java,PlaceOrder,"doPost/2[HttpServletRequest,HttpServletResponse]",emailid,3
+/home/x1/Desktop/ass/ass16/ecommerce-website-main/src/java/PlaceOrder.java,PlaceOrder,"create_cart/3[HttpServletRequest,HttpServletResponse,java.io.PrintWriter]",mode,1
+/home/x1/Desktop/ass/ass16/ecommerce-website-main/src/java/PlaceOrder.java,PlaceOrder,"create_cart/3[HttpServletRequest,HttpServletResponse,java.io.PrintWriter]",fname,1
+/home/x1/Desktop/ass/ass16/ecommerce-website-main/src/java/PlaceOrder.java,PlaceOrder,"create_cart/3[HttpServletRequest,HttpServletResponse,java.io.PrintWriter]",bno,2
+/home/x1/Desktop/ass/ass16/ecommerce-website-main/src/java/PlaceOrder.java,PlaceOrder,"create_cart/3[HttpServletRequest,HttpServletResponse,java.io.PrintWriter]",emailid,1
+/home/x1/Desktop/ass/ass16/ecommerce-website-main/src/java/Cart_Login.java,Cart_Login,"create_cart/3[HttpServletRequest,HttpServletResponse,java.io.PrintWriter]",fname,1
+/home/x1/Desktop/ass/ass16/ecommerce-website-main/src/java/Cart_Login.java,Cart_Login,"create_cart/3[HttpServletRequest,HttpServletResponse,java.io.PrintWriter]",mobile,1
+/home/x1/Desktop/ass/ass16/ecommerce-website-main/src/java/Cart_Login.java,Cart_Login,"create_cart/3[HttpServletRequest,HttpServletResponse,java.io.PrintWriter]",emailid,1
+/home/x1/Desktop/ass/ass16/ecommerce-website-main/src/java/Cart_Login.java,Cart_Login,"doGet/2[HttpServletRequest,HttpServletResponse]",fname,1
+/home/x1/Desktop/ass/ass16/ecommerce-website-main/src/java/Cart_Login.java,Cart_Login,"doGet/2[HttpServletRequest,HttpServletResponse]",mobile,1
+/home/x1/Desktop/ass/ass16/ecommerce-website-main/src/java/Cart_Login.java,Cart_Login,"doGet/2[HttpServletRequest,HttpServletResponse]",emailid,1
